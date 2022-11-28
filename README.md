@@ -8,3 +8,4 @@
 # 1.CodeBook.md: Includes variables, data and transformations
 # 2.run_analysis.R:  Performs the data cleaning and preparation steps mentioned in the project submission guidelines
 # 3.final_data.txt is the exported final data after going through all the sequences described above.
+# 4.README.md
